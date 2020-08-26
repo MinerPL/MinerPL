@@ -2,10 +2,10 @@
 
 <br />
 <br />
-**<img align="left" alt="Mój discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />Moje Discordy:**  
-[MightyBot](https://discord.gg/p9z8M56)
-[ExoHost](https://discord.gg/evWgyNT)
-[Inny](https://discord.gg/Aj8y5YS)
+**<img align="left" alt="Mój discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />Moje Discordy:**<br />
+[MightyBot](https://discord.gg/p9z8M56) <br />
+[ExoHost](https://discord.gg/evWgyNT)<br />
+[Inny](https://discord.gg/Aj8y5YS)<br />
 
 <br />
 <br />
