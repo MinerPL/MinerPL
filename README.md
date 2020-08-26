@@ -2,6 +2,8 @@
 
 <br />
 <br />
+Siemka, witaj na moim profilu.
+
 
 **Moje Discordy:**<br />
 [MightyBot](https://discord.gg/p9z8M56) <br />
@@ -9,9 +11,6 @@
 [Inny](https://discord.gg/Aj8y5YS) <br />
 
 <br />
-<br />
-
-Siemka, witaj na moim profilu.
 
 **Języki i narzędzie:**  
 
