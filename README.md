@@ -1,11 +1,8 @@
-### Hi there, I'm [Xiboon!](https://xiboon.codes/) 👋
+### Siemka [MinerPL](https://mightybot.ml) 👋
 
 
-<a href="https://twitter.com/hxiboon">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/7mdNBrE">
-  <img align="left" alt="Xiboon's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://discord.gg/p9z8M56">
+  <img align="left" alt="Mój discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
@@ -13,15 +10,9 @@
 
 Hi, I'm Xiboon, a passionate self-taught web developer from Poland.
 
-- 🔭 I’m currently working on my project [Xenith](https://github.com/Xiboon/Xenith) and [MemeAPI](https://api.xenith.pl/memeapi)
-- 💬 Ask me about anything [here](https://discord.gg/7mdNBrE)
-
-**Languages and Tools:**  
+**Języki i narzędzie:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://www.mateuszcholewa.pl/wp-content/uploads/2016/10/HTML5.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"> </code>
-<code><img height="25" src="https://logonoid.com/images/webstorm-logo.png"> </code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <!--- 
