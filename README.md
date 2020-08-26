@@ -1,14 +1,13 @@
 ### Siemka, jestem [MinerPL](https://mightybot.ml) 👋
 
 <br />
-<br />
 Siemka, witaj na moim profilu.
-
+<br />
 
 **Moje Discordy:**<br />
-[MightyBot](https://discord.gg/p9z8M56) <br />
-[ExoHost](https://discord.gg/evWgyNT) <br />
-[Inny](https://discord.gg/Aj8y5YS) <br />
+- [MightyBot](https://discord.gg/p9z8M56)
+- [ExoHost](https://discord.gg/evWgyNT)
+- [Inny](https://discord.gg/Aj8y5YS)
 
 <br />
 
@@ -19,19 +18,9 @@ Siemka, witaj na moim profilu.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="25" src="https://www.jetbrains.com/idea/img/idea-edu.svg"></code>
 
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MinerPL&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff?count_private=true" alt="Moje staty" />
-</a>
+</a><br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinerPL&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
