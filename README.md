@@ -1,15 +1,11 @@
 ### Siemka, jestem [MinerPL](https://mightybot.ml) 👋
 
-
-<a href="https://discord.gg/p9z8M56">
-  <img align="left" alt="Mój discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-<a href="https://discord.gg/Aj8y5YS">
-  <img align="left" alt="Mój discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-<a href="https://discord.gg/evWgyNT">
-  <img align="left" alt="Mój discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+<br />
+<br />
+**<img align="left" alt="Mój discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />Moje Discordy:**  
+[MightyBot](https://discord.gg/p9z8M56)
+[ExoHost](https://discord.gg/evWgyNT)
+[Inny](https://discord.gg/Aj8y5YS)
 
 <br />
 <br />
