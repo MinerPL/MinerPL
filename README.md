@@ -2,10 +2,11 @@
 
 <br />
 <br />
+
 **Moje Discordy:**<br />
-### [MightyBot](https://discord.gg/p9z8M56) <br />
-### [ExoHost](https://discord.gg/evWgyNT) <br />
-### [Inny](https://discord.gg/Aj8y5YS) <br />
+[MightyBot](https://discord.gg/p9z8M56) <br />
+[ExoHost](https://discord.gg/evWgyNT) <br />
+[Inny](https://discord.gg/Aj8y5YS) <br />
 
 <br />
 <br />
