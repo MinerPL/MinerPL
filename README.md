@@ -3,6 +3,7 @@
 <br />
 Siemka, witaj na moim profilu.
 <br />
+<br />
 
 **Moje Discordy:**<br />
 - [MightyBot](https://discord.gg/p9z8M56)
