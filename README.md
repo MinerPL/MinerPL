@@ -15,6 +15,8 @@ Siemka, witaj na moim profilu.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="25" src="https://www.jetbrains.com/idea/img/idea-edu.svg"></code>
+
 
 <!--- 
   if you have forked this to use on your profile, 
