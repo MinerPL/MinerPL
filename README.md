@@ -1,4 +1,4 @@
-### Siemka [MinerPL](https://mightybot.ml) 👋
+### Siemka, jestem [MinerPL](https://mightybot.ml) 👋
 
 
 <a href="https://discord.gg/p9z8M56">
@@ -25,7 +25,7 @@ Siemka, witaj na moim profilu.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MinerPL&show_icons=true&include_all_commits=true" alt="Moje staty" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MinerPL&show_icons=true&include_all_commits=true&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10" alt="Moje staty" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
