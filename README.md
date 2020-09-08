@@ -6,8 +6,8 @@ Witaj na moim profilu.
 <br />
 
 **Moje Discordy:**<br />
-- [MightyBot](https://discord.gg/p9z8M56)
-- [ExoHost](https://discord.gg/evWgyNT)
+- [MightyBot](https://discord.gg/NwzfPyg)
+- [ExoHost](https://discord.gg/J96GJQR)
 
 <br />
 
