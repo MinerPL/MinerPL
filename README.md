@@ -1,12 +1,12 @@
-### Siemka, jestem [MinerPL](https://mightybot.ml) 👋
+### Siemka, jestem [MinerPL](https://minerpl.xyz) 👋
 
 <br />
 Witaj na moim profilu.
 <br />
 <br />
 
-**Moje Discordy:**<br />
-- [MightyBot](https://discord.gg/NwzfPyg)
+**Moje Projekty:**<br />
+- [MightyBot](https://discord.gg/NwzfPyg), [Bot](https://mightybot.ml/add), [Strona](https://mightybot.ml)
 - [Mighty Community](https://discord.gg/pv8BSZBDuw)
 - [ExeHost](https://discord.gg/J96GJQR)
 
