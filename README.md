@@ -13,7 +13,7 @@ Witaj na moim profilu.
 <br />
 
 **Kontakt**:
-- Discord: MinerPL#1166
+- Discord: renim#2233
 - Email: minerpl@minerpl.xyz
 
 <br />
