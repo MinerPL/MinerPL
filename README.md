@@ -6,9 +6,9 @@ Witaj na moim profilu.
 <br />
 
 **Moje Projekty:**<br />
-- [MightyBot](https://discord.gg/NwzfPyg), [Bot](https://mightybot.xyz/add), [Strona](https://mightybot.xyz)
+- [MightyBot](https://mightybot.xyz/support), [Bot](https://mightybot.xyz/add), [Strona](https://mightybot.xyz)
 - [Mighty Community](https://discord.gg/pv8BSZBDuw)
-- [ExeHost](https://discord.gg/J96GJQR)
+- [ExeHost](https://discord.gg/tXGdnc8FzM)
 
 <br />
 
