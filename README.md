@@ -8,7 +8,6 @@ Witaj na moim profilu.
 **Moje Projekty:**<br />
 - [MightyBot](https://mightybot.xyz/support), [Bot](https://mightybot.xyz/add), [Strona](https://mightybot.xyz)
 - [Mighty Community](https://discord.gg/pv8BSZBDuw)
-- [ExeHost](https://discord.gg/tXGdnc8FzM)
 
 <br />
 
