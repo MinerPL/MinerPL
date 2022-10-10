@@ -2,7 +2,7 @@
 
 ### 👨‍💻 &nbsp;About Me
 - 👨: My name is Dawid.
-- 🔢: I'm a 16 years old.
+- 🔢: I'm a 17 years old.
 - 🏠: I live in Poland.
 - 🏫: I’m in grade 3 in Technical School.
 - 😄  Pronouns: He/His
