@@ -46,7 +46,7 @@
 <a href="https://minerpl.xyz"><img src="https://img.shields.io/badge/-minerpl.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:contact@minerpl.xyz"><img src="https://img.shields.io/badge/-contact@minerpl.xyz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/xMinerPLx"><img src="https://img.shields.io/badge/-@xMinerPLx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://discord.com/users/791077984395591720"><img src="https://img.shields.io/badge/-KSG__MinerPL%232233-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://discord.com/users/791077984395591720"><img src="https://img.shields.io/badge/-KSG__MinerPL%232137-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://t.me/minerpl"><img src="https://img.shields.io/badge/-@MinerPL-0088CC?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://twitter.com/pl_miner"><img src="https://img.shields.io/badge/-@pl__miner-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
